@@ -1,0 +1,1 @@
+Implementation of Star Wars API (swapi) for Android
